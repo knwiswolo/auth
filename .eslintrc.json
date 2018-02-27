@@ -7,7 +7,7 @@
     "parser": "babel-eslint",
     "extends": "airbnb",
     "rules": {
-        "indent": ["error", 4],
+        "indent": "off",
         "max-len": "off",
         "object-curly-newline": "off",
         "comma-dangle": "off",
